@@ -5,6 +5,8 @@
 
 This is the **official** PyTorch implementation of [**CUTS: A Deep Learning and Topological Framework for Multigranular Unsupervised Medical Image Segmentation**](https://arxiv.org/abs/2209.11359)
 
+Please raise issues [here](https://github.com/ChenLiu-1996/CUTS).
+
 <br>
 
 ## A Glimpse into the Methods
