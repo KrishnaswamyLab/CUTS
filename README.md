@@ -13,13 +13,6 @@ Please raise issues [here](https://github.com/ChenLiu-1996/CUTS).
 
 ## Citation
 ```
-@article{liu2022cuts,
-  title={CUTS: A Framework for Multigranular Unsupervised Medical Image Segmentation},
-  author={Liu, Chen and Amodio, Matthew and Shen, Liangbo L and Gao, Feng and Avesta, Arman and Aneja, Sanjay and Wang, Jay and Del Priore, Lucian V and Krishnaswamy, Smita},
-  journal={arXiv preprint arXiv:2209.11359},
-  year={2022}
-}
-
 @inproceedings{liu2024cuts,
   title={CUTS: A Deep Learning and Topological Framework for Multigranular Unsupervised Medical Image Segmentation},
   author={Liu, Chen and Amodio, Matthew and Shen, Liangbo L and Gao, Feng and Avesta, Arman and Aneja, Sanjay and Wang, Jay and Del Priore, Lucian V and Krishnaswamy, Smita},
