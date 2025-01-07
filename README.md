@@ -1,10 +1,22 @@
-# CUTS: A Deep Learning and Topological Framework for Multigranular Unsupervised Medical Image Segmentation
-### Krishnaswamy Lab, Yale University
-[![Twitter](https://img.shields.io/twitter/follow/KrishnaswamyLab.svg?style=social&label=Follow)](https://twitter.com/KrishnaswamyLab)
-[![Github Stars](https://img.shields.io/github/stars/ChenLiu-1996/UnsupervisedMedicalSeg.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg/)
+<h1 align="center">
+[MICCAI 2024] CUTS
+</h1>
+
+<p align="center">
+<strong>A Deep Learning and Topological Framework for Multigranular Unsupervised Medical Image Segmentation</strong>
+</p>
+
+<div align="center">
+
 [![ArXiv](https://img.shields.io/badge/ArXiv-CUTS-firebrick)](https://arxiv.org/abs/2209.11359)
 [![MICCAI 2024](https://img.shields.io/badge/MICCAI_2024-aeeafc)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_15)
-[![Poster](https://img.shields.io/badge/Poster-0f4d92)](https://www.chenliu1996.com/publication/2024_cuts/CUTS_MICCAI2024_poster.pdf)
+[![Poster](https://img.shields.io/badge/Poster-0f4d92)](https://chenliu-1996.github.io/posters/CUTS_MICCAI2024_poster.pdf)
+[![Twitter](https://img.shields.io/twitter/follow/KrishnaswamyLab.svg?style=social)](https://twitter.com/KrishnaswamyLab)
+[![Github Stars](https://img.shields.io/github/stars/ChenLiu-1996/UnsupervisedMedicalSeg.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg/)
+
+</div>
+
+### Krishnaswamy Lab, Yale University
 
 This is the official PyTorch implementation of [**CUTS**](https://arxiv.org/abs/2209.11359), MICCAI 2024.
 
