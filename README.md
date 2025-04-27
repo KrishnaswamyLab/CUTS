@@ -72,7 +72,7 @@ Relatively core files or folders are marked with (*).
 ```
 
 ## Data Provided
-The `berkeley_natural_images` and `retina` datasets are provided in `zip` format. The `brain_ventricles` dataset exceeds the GitHub size limits, and can be made available upon reasonable request.
+For data, please see https://github.com/ChenLiu-1996/CUTS/tree/main/data.
 
 ## To reproduce the results in the paper.
 The following commands are using `retina_seed2` as an example (retina dataset, random seed set to 2022).
