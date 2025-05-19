@@ -74,6 +74,7 @@ Relatively core files or folders are marked with (*).
 
 ## Data Provided
 For data, please see https://github.com/ChenLiu-1996/CUTS/tree/main/data.
+
 The entire dataset can also be downloaded from [Huggingface](https://huggingface.co/datasets/ChenLiu1996/CUTS).
 
 ## To reproduce the results in the paper.
